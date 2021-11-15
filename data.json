@@ -1,0 +1,20 @@
+[
+    {
+        "nama":"Joni",
+        "jenis_kelamin":"Pria",
+        "pekerjaan":"Software Engineer",
+        "usia": 30
+    },
+    {
+        "nama":"Sinta",
+        "jenis_kelamin":"Wanita",
+        "pekerjaan":"Designer",
+        "usia": 20
+    },
+    {
+        "nama":"Iska",
+        "jenis_kelamin":"Wanita",
+        "pekerjaan":"Sales",
+        "usia": 20
+    }
+]
